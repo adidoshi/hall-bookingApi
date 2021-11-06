@@ -1,6 +1,6 @@
-var express = require("express");
+const express = require("express");
 const app = require("../app");
-var router = express.Router();
+const router = express.Router();
 
 // Data
 const rooms = [
